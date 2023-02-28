@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://attar0527.github.io/sitemap.xml
